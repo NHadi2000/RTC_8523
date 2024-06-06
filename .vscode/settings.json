@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "i2c_master.h": "c",
+        "i2c.h": "c",
+        "freertos.h": "c",
+        "i2c_types.h": "c",
+        "stdio.h": "c",
+        "rtc8523.h": "c",
+        "chrono": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
